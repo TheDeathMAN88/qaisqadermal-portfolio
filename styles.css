@@ -966,3 +966,33 @@ section {
 }
 
 /*# sourceMappingURL=styles.css.map */
+.construction-site {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  background-color: #f7f7f7;  /* Light background to match the site's theme */
+  border-radius: 10px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.construction-icon {
+  font-size: 100px;
+  color: #FFC107; /* Matching the theme color from the SVG earlier */
+  margin-bottom: 20px;
+}
+
+.construction-text h3 {
+  text-align: center;
+  font-size: 28px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.construction-text p {
+  font-size: 18px;
+  color: #666;
+  text-align: center;
+  max-width: 500px;
+}
