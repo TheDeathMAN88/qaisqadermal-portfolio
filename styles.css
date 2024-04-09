@@ -323,9 +323,7 @@ section {
 .about-stats .progress-bars .progress-bar .progress-con .progress .node {
   width: 70%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .problem {
-  width: 90%;
-}
+
 
 .stat-title {
   text-transform: uppercase;
